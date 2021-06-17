@@ -1,0 +1,624 @@
+# depslib dependency file v1.0
+1577791356 source:c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\bit_counter.cpp
+	"bit_counter.h"
+
+1577555485 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\bit_counter.h
+
+1578148138 source:c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\character.cpp
+	"character.h"
+
+1578148138 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\character.h
+	<SDL.h>
+	"weapon.h"
+
+1564029277 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1564029277 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1564029277 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\close_code.h
+
+1564029277 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1564029277 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1564029277 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1564029277 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1564029277 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1564029277 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1564029277 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1578148138 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\weapon.h
+	<SDL.h>
+	"projectile_mechanics.h"
+
+1578148138 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\projectile_mechanics.h
+	<SDL.h>
+	"entity.h"
+
+1577522058 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\entity.h
+	"l_texture.h"
+
+1577273708 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\l_texture.h
+	<string>
+	<SDL.h>
+
+1576343172 source:c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\entity.cpp
+
+1578157849 source:c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\game.cpp
+	<cmath>
+	<stdlib.h>
+	"game.h"
+	"scene.h"
+	"character.h"
+
+1577972758 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\game.h
+	<SDL.h>
+	<stdio.h>
+	"player.h"
+	"sprite.h"
+	"timer.h"
+
+1578149429 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\player.h
+	<vector>
+	<SDL.h>
+	"projectile_mechanics.h"
+	"scene_object.h"
+	"gameplay_map.h"
+	"weapon.h"
+	"l_mixerchunk.h"
+
+1577883323 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\scene_object.h
+	<SDL.h>
+	"l_texture.h"
+
+1577514232 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\gameplay_map.h
+	<SDL.h>
+	<fstream>
+	"scene_object.h"
+
+1577852036 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\l_mixerchunk.h
+	<SDL.h>
+	<SDL_mixer.h>
+
+1540997992 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\sdl2_mixer-2.0.4\i686-w64-mingw32\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1577866188 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\sprite.h
+	<SDL.h>
+	<vector>
+	"scene_object.h"
+
+1577274594 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\timer.h
+	<SDL.h>
+
+1577867178 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\scene.h
+	<vector>
+	<SDL.h>
+	"l_texture.h"
+	"gameplay_map.h"
+	"overlay.h"
+	"sprite.h"
+	"player.h"
+
+1577814798 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\overlay.h
+	<SDL.h>
+	"scene_object.h"
+
+1578123241 source:c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\game_displays.cpp
+	"game_displays.h"
+	"player.h"
+
+1577973984 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\game_displays.h
+	<SDL.h>
+	"overlay.h"
+	"sprite.h"
+	"timer.h"
+	"l_mixerchunk.h"
+
+1577883430 source:c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\gameplay_map.cpp
+	<iostream>
+	<iomanip>
+	"gameplay_map.h"
+	"scene.h"
+
+1578125704 source:c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\gameplay_maps.cpp
+	<stdio.h>
+	<sstream>
+	"gameplay_maps.h"
+	"scene.h"
+	"overlay.h"
+
+1577979234 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\gameplay_maps.h
+	<vector>
+	<string>
+	"gameplay_map.h"
+	"l_texture.h"
+
+1578160637 source:c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\gamestate.cpp
+	<stdio.h>
+	"gamestate.h"
+	"select.h"
+
+1577973651 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\gamestate.h
+	<SDL.h>
+
+1578113450 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\select.h
+	"scene_object.h"
+	"l_button.h"
+	"bit_counter.h"
+	"l_mixerchunk.h"
+
+1577793782 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\l_button.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"scene_object.h"
+
+1561870368 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\sdl2_image-2.0.5\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1577793782 source:c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\l_button.cpp
+	<iostream>
+	"l_texture.h"
+	"l_button.h"
+	"select.h"
+
+1577979381 source:c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\l_mixer.cpp
+	<stdio.h>
+	"l_mixer.h"
+
+1577682748 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\l_mixer.h
+	<SDL.h>
+	<SDL_mixer.h>
+
+1577979342 source:c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\l_mixerchunk.cpp
+	<stdio.h>
+	"l_mixer.h"
+	"l_mixerchunk.h"
+
+1578121315 source:c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\l_renderer.cpp
+	"l_window.h"
+	"l_renderer.h"
+
+1577463075 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\l_window.h
+	<sstream>
+	<SDL.h>
+	"timer.h"
+
+1577443875 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\l_renderer.h
+	<SDL.h>
+
+1578122303 source:c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\l_texture.cpp
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	"l_texture.h"
+	"l_renderer.h"
+
+1547322281 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\sdl2_ttf-2.0.15\i686-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1577681232 source:c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\l_window.cpp
+	"l_window.h"
+	"l_renderer.h"
+	<iomanip>
+	<stdio.h>
+
+1578160382 source:c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	"l_window.h"
+	"l_texture.h"
+	"l_renderer.h"
+	"l_mixer.h"
+	"l_mixerchunk.h"
+	"scene.h"
+	"gameplay_map.h"
+	"gameplay_maps.h"
+	"overlay.h"
+	"game_displays.h"
+	"timer.h"
+	"gamestate.h"
+	"game.h"
+	"character.h"
+	"screen.h"
+	"select.h"
+	"bit_counter.h"
+	"textbox.h"
+
+1577620763 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\screen.h
+	"l_texture.h"
+	"l_button.h"
+
+1577816896 c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\textbox.h
+	<SDL.h>
+	"scene_object.h"
+
+1578122288 source:c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\overlay.cpp
+	"overlay.h"
+	"scene.h"
+	"l_window.h"
+
+1578158444 source:c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\player.cpp
+	<cmath>
+	"player.h"
+	"scene.h"
+	"character.h"
+	<stdlib.h>
+
+1578156843 source:c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\projectile_mechanics.cpp
+	<cmath>
+	"projectile_mechanics.h"
+
+1577971886 source:c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\scene.cpp
+	<SDL_image.h>
+	"l_renderer.h"
+	"l_window.h"
+	"scene.h"
+	"scene_object.h"
+
+1577883323 source:c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\scene_object.cpp
+	<stdio.h>
+	"scene.h"
+	"scene_object.h"
+
+1578157857 source:c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\select.cpp
+	"select.h"
+
+1577872132 source:c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\sprite.cpp
+	"sprite.h"
+	"scene.h"
+	"l_window.h"
+
+1577817143 source:c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\textbox.cpp
+	"textbox.h"
+
+1578159224 source:c:\users\·¨¾Ç¿«\downloads\sdl_project_0104_2\deadline\weapon.cpp
+	"weapon.h"
+

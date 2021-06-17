@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="SDL_2" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Release">
+				<Option output="bin/Release/SDL_2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="intermediates/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add option="-std=c++11" />
+					<Add directory="SDL2-2.0.10/i686-w64-mingw32/include" />
+					<Add directory="SDL2-2.0.10/i686-w64-mingw32/include/SDL2" />
+					<Add directory="SDL_bgi-2.3.0/src" />
+					<Add directory="SDL2_image-2.0.5/i686-w64-mingw32/include/SDL2" />
+					<Add directory="SDL2_mixer-2.0.4/i686-w64-mingw32/include/SDL2" />
+					<Add directory="SDL2_ttf-2.0.15/i686-w64-mingw32/include/SDL2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add option="-lmingw32" />
+					<Add option="-L/mingw64/bin" />
+					<Add option="-lSDL2_ttf" />
+					<Add option="-lSDL2_mixer" />
+					<Add option="-lSDL2_image" />
+					<Add option="-lSDL2main" />
+					<Add option="-lSDL2" />
+					<Add directory="SDL2-2.0.10/i686-w64-mingw32/lib" />
+					<Add directory="SDL_bgi-2.3.0/bin/CodeBlocks" />
+					<Add directory="SDL2_image-2.0.5/i686-w64-mingw32/lib" />
+					<Add directory="SDL2_mixer-2.0.4/i686-w64-mingw32/lib" />
+					<Add directory="SDL2_ttf-2.0.15/i686-w64-mingw32/lib" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="bit_counter.cpp" />
+		<Unit filename="bit_counter.h" />
+		<Unit filename="character.cpp" />
+		<Unit filename="character.h" />
+		<Unit filename="entity.cpp" />
+		<Unit filename="entity.h" />
+		<Unit filename="game.cpp" />
+		<Unit filename="game.h" />
+		<Unit filename="game_displays.cpp" />
+		<Unit filename="game_displays.h" />
+		<Unit filename="gameplay_map.cpp" />
+		<Unit filename="gameplay_map.h" />
+		<Unit filename="gameplay_maps.cpp" />
+		<Unit filename="gameplay_maps.h" />
+		<Unit filename="gamestate.cpp" />
+		<Unit filename="gamestate.h" />
+		<Unit filename="l_button.cpp" />
+		<Unit filename="l_button.h" />
+		<Unit filename="l_mixer.cpp" />
+		<Unit filename="l_mixer.h" />
+		<Unit filename="l_mixerchunk.cpp" />
+		<Unit filename="l_mixerchunk.h" />
+		<Unit filename="l_renderer.cpp" />
+		<Unit filename="l_renderer.h" />
+		<Unit filename="l_texture.cpp" />
+		<Unit filename="l_texture.h" />
+		<Unit filename="l_window.cpp" />
+		<Unit filename="l_window.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="overlay.cpp" />
+		<Unit filename="overlay.h" />
+		<Unit filename="player.cpp" />
+		<Unit filename="player.h" />
+		<Unit filename="projectile_mechanics.cpp" />
+		<Unit filename="projectile_mechanics.h" />
+		<Unit filename="scene.cpp" />
+		<Unit filename="scene.h" />
+		<Unit filename="scene_object.cpp" />
+		<Unit filename="scene_object.h" />
+		<Unit filename="select.cpp" />
+		<Unit filename="select.h" />
+		<Unit filename="sprite.cpp" />
+		<Unit filename="sprite.h" />
+		<Unit filename="textbox.cpp" />
+		<Unit filename="textbox.h" />
+		<Unit filename="timer.h" />
+		<Unit filename="weapon.cpp" />
+		<Unit filename="weapon.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

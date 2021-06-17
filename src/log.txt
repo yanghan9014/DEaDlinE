@@ -1,0 +1,110 @@
+1231:
+Menu functions added
+
++ selection now passes on to Game
+  * char selection is still flawed
++ added characters
++ added new art
++ music changed
+- more random crashes
+  * some seems to go away after both map and char are selected
+- sceneobject api structure broken
+
+1229:
+Merged selection menu
+
++ crude gamestates finished
+  * from start, intro, selection menu to gameplay
+- random crashes when changing states too quickly
+
+1227:
+Screenshots, files and rendering
+
++ F2 now takes a screenshot
+* more work on map file hierarchy
++ Scene now contains object list
+  * rendering SceneObject can be abstracted away
+* minor cleaning
+  * const methods
+  * where to put extern
+
+1226:
+System framework modified
+
++ GameplayMaps to manage map loading and selection
+  * requires certain file hierarchy
++ GameState made into a class
+* experimenting poly rendering
++ Overlay now does texture stretching
+  * requires smaller texture
+
+1224:
+Expanded timer class
+
++ now counts bpm
++ experimenting screen flash(to the beat)
+* camera movement is now responsibility of Scene
+
+1223:
+Crude scene change and expanded Mixer class
+
++ can switch between main menu and gameplay scene
++ Music now plays as scene changes
++ LMixer LMixerChunk now inits, logs, and deletes properly
++ timer class(trivial)
+* minor cleanup
+
+1222:
+Merged Player with crude collision
+
+- dataBase and globalconstants are deprecated
+  - contents moved to relevant places
+* program crashes when player moves out of gamplaymap border
+
+1220:
+Optimized camera and state changes
+
+* camera code partially moved inside Scene
++ utilized gameState to tab between states
+* renamed constant "WINDOWED_WIDTH", "WINDOWED_HEIGHT"
+* minor code cleanup
+* functional LMixer/LMixerChunk class finished
+
+1218:
+Minor changes
+
+* modified scale function using sigmoid function
+* cleaned up some leftover junk of LMixer
+
+1217:
+Merged game and player class
+
+- collision is broken
+  * please replace with to-map collision
+* tilemap prototyping
+  * TileState is modified
+  + ready for damaged tiles
+  + loadFromfile() is now reload safe
+
+1216:
+Prototyping
+
++ crude saving to file
++ crude audio class encapsulating
+  * LMixer is intended for global use
+  * LMixerChunk is to be member objects
+* minor cleaning
+  * log message format
+  * use of scopes
+* switch to using .dat files
+
+1215:
+First minimal rendering API
+
+To be part of the rendering process:
+* inherit from SceneObject
+* implement(override) public void render();
+
++ stable fullscreen toggle
++ camera
+- Player class (awaiting update)
